@@ -18,4 +18,18 @@ CMakeCache.txt
 
 # Temporary
 *.log
-*.tmp
+
+
+# CMake build folders
+**/build/
+**/cmake-build-*/
+
+# GLFW generated build
+**/external/glfw/build/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
