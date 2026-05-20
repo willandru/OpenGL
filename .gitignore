@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.opendb
+*.sdf
+*.ipch
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary
+*.log
+*.tmp
