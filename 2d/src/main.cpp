@@ -10,8 +10,8 @@ int main()
     Renderer renderer;
 
     Shader shader(
-        "shaders/default.vert",
-        "shaders/default.frag"
+        "../../shaders/default.vert",
+        "../../shaders/default.frag"
     );
 
     Square square;
